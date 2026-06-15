@@ -1,0 +1,1 @@
+Developed a Conversational AI Research Assistant using FastAPI, Streamlit, Ollama (Llama 3), and ChromaDB. Implemented a complete RAG pipeline with PDF ingestion, text extraction, semantic search, vector embeddings, multi-document retrieval, conversational memory, and an interactive ChatGPT-style interface for intelligent document analysis and question answering.
